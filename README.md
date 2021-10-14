@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot/127.0.0.1_8080_.png)
+![](screenshot.png)
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/venkateshbaddela/fylo-landing-page]
+- Live Site URL: [https://venkateshbaddela.github.io/fylo-landing-page/]
 
 ### Built with
 
